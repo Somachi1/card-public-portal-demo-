@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'public-card-portal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8D9D5070B9F4CC29A5450212F575FB9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B402DBF1E4A4C44AA0D788426178B4E }}
